@@ -1,0 +1,37 @@
+li{list-style:none}
+.head-nav{
+    font-size: 18px;
+}
+.head-nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+.head-nav li{
+    cursor: pointer;
+    color: red;
+    width: 33%;
+    text-align: center;
+    font-weight: bold;
+}
+.head-nav a {
+    text-decoration: none;
+    color: red;
+}
+.test{
+
+}
+.test a{
+    display: block;
+    width: 200px;
+    height: 40px;
+    border-radius: 6px;
+    color: red;
+    cursor: pointer;
+    background: aqua;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 auto;
+    margin-top: 20px;
+}
